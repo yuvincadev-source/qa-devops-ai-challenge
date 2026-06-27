@@ -1,4 +1,5 @@
-Aquí tienes un ejemplo estructurado y listo para documentar:
+## matriz de pruebas para evaluar respuestas generadas por un LLM o asistente virtual. Escenario sugerido
+## tabla
 
 | Nº | Prompt probado | Input del usuario | Respuesta obtenida | Evaluación de relevancia | Evaluación de coherencia | Posibles alucinaciones | Recomendaciones de mejora |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,7 +10,7 @@ Aquí tienes un ejemplo estructurado y listo para documentar:
 | 5 | Pregunta repetida con distinta redacción | “¿Puedo devolver un producto?” / “¿Aceptan devoluciones?” | “Sí, puedes devolver productos dentro de 30 días.” | Alta — mantiene consistencia | Coherente y estable | Ninguna | Mantener uniformidad en tono y formato de respuesta |
 
 
-📋 Observaciones generales:
+## 📋 Observaciones generales:
 El modelo debe mantener precisión y evitar alucinaciones (no inventar políticas o plazos).
 Debe solicitar aclaraciones ante ambigüedad.
 Debe respetar límites de alcance y privacidad.
