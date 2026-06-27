@@ -1,0 +1,28 @@
+{
+  "name": "qa-devops-ai-challenge",
+  "version": "1.0.0",
+  "description": "Framework de automatizacion UI migrado a Playwright con TypeScript.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvincadev-source/qa-devops-ai-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yuvincadev-source/qa-devops-ai-challenge/issues"
+  },
+  "homepage": "https://github.com/yuvincadev-source/qa-devops-ai-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1"
+  }
+}
